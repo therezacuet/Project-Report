@@ -81,7 +81,7 @@
                 "value": null
             },
             "picture": {
-                "large": "https://randomuser.me/api/portraits/men/11.jpg",
+                "large": "https://firebasestorage.googleapis.com/v0/b/team-dovana.appspot.com/o/myAvatar.png?alt=media&token=245ddbb8-6faf-4689-a68c-b79a7420673e",
                 "medium": "https://randomuser.me/api/portraits/med/men/11.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
             },
@@ -111,7 +111,7 @@
                 "value": null
             },
             "picture": {
-                "large": "https://randomuser.me/api/portraits/men/27.jpg",
+                "large": "https://firebasestorage.googleapis.com/v0/b/team-dovana.appspot.com/o/myAvatar.png?alt=media&token=245ddbb8-6faf-4689-a68c-b79a7420673e",
                 "medium": "https://randomuser.me/api/portraits/med/men/27.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/27.jpg"
             },
@@ -141,7 +141,7 @@
                 "value": "0353844T"
             },
             "picture": {
-                "large": "https://randomuser.me/api/portraits/men/41.jpg",
+                "large": "https://firebasestorage.googleapis.com/v0/b/team-dovana.appspot.com/o/myAvatar.png?alt=media&token=245ddbb8-6faf-4689-a68c-b79a7420673e",
                 "medium": "https://randomuser.me/api/portraits/med/men/41.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/41.jpg"
             },
@@ -201,7 +201,97 @@
                 "value": null
             },
             "picture": {
-                "large": "https://randomuser.me/api/portraits/women/22.jpg",
+                "large": "https://firebasestorage.googleapis.com/v0/b/team-dovana.appspot.com/o/myAvatar.png?alt=media&token=245ddbb8-6faf-4689-a68c-b79a7420673e",
+                "medium": "https://randomuser.me/api/portraits/med/women/22.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/22.jpg"
+            },
+            "nat": "NZ"
+        } 
+        {
+            "gender": "male",
+            "name": {
+                "title": "mr",
+                "first": "shafayet",
+                "last": "jamil"
+            },
+            "location": {
+                "street": "2066 queen elizabeth ii drive",
+                "city": "christchurch",
+                "state": "Mirpur 1",
+                "postcode": 95433
+            },
+            "email": "shafayer.mcc@gmail.com",
+            "dob": "1977-11-29 15:33:17",
+            "registered": "2014-07-13 10:41:51",
+            "phone": "(260)-194-6879",
+            "cell": "(595)-909-4476",
+            "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://firebasestorage.googleapis.com/v0/b/team-dovana.appspot.com/o/myAvatar.png?alt=media&token=245ddbb8-6faf-4689-a68c-b79a7420673e",
+                "medium": "https://randomuser.me/api/portraits/med/women/22.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/22.jpg"
+            },
+            "nat": "NZ"
+        } 
+        {
+            "gender": "male",
+            "name": {
+                "title": "mr",
+                "first": "shafayet",
+                "last": "jamil"
+            },
+            "location": {
+                "street": "2066 queen elizabeth ii drive",
+                "city": "christchurch",
+                "state": "Mirpur 1",
+                "postcode": 95433
+            },
+            "email": "shafayer.mcc@gmail.com",
+            "dob": "1977-11-29 15:33:17",
+            "registered": "2014-07-13 10:41:51",
+            "phone": "(260)-194-6879",
+            "cell": "(595)-909-4476",
+            "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://firebasestorage.googleapis.com/v0/b/team-dovana.appspot.com/o/myAvatar.png?alt=media&token=245ddbb8-6faf-4689-a68c-b79a7420673e",
+                "medium": "https://randomuser.me/api/portraits/med/women/22.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/22.jpg"
+            },
+            "nat": "NZ"
+        } 
+        {
+            "gender": "male",
+            "name": {
+                "title": "mr",
+                "first": "shafayet",
+                "last": "jamil"
+            },
+            "location": {
+                "street": "2066 queen elizabeth ii drive",
+                "city": "christchurch",
+                "state": "Mirpur 1",
+                "postcode": 95433
+            },
+            "email": "shafayer.mcc@gmail.com",
+            "dob": "1977-11-29 15:33:17",
+            "registered": "2014-07-13 10:41:51",
+            "phone": "(260)-194-6879",
+            "cell": "(595)-909-4476",
+            "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://firebasestorage.googleapis.com/v0/b/team-dovana.appspot.com/o/myAvatar.png?alt=media&token=245ddbb8-6faf-4689-a68c-b79a7420673e",
                 "medium": "https://randomuser.me/api/portraits/med/women/22.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/women/22.jpg"
             },
