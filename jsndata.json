@@ -1,0 +1,217 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "mr",
+                "first": "Rezaul",
+                "last": "Islam"
+            },
+            "location": {
+                "state": "Mohammadpur"
+            },
+            "email": "rezaulislam.mcc@gmail.com",
+             
+            "dob": "1951-02-11 04:06:08",
+            "registered": "2006-08-27 03:48:47",
+            "phone": "803-152-3906",
+            "cell": "305-983-9613",
+            "des": "I am a self-taught web developer & designer based in Bangladesh. I have coplete my graduation from CUET in CSE. I have a passion for developing websites, web applications and mobile application. Also like a little bit of programming & always love to use open source tools. I have a very creative mind that allows me to address and solve technical problems.",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://firebasestorage.googleapis.com/v0/b/team-dovana.appspot.com/o/reza.jpg?alt=media&token=196a75e6-5772-4f6e-acb8-fec6bc06f1d5",
+                "medium": "https://randomuser.me/api/portraits/med/men/79.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/79.jpg"
+            },
+            "nat": "CA"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "mr",
+                "first": "Arman",
+                "last": "Rakib"
+            },
+            "location": {
+                "street": "6824 park lane",
+                "city": "peterborough",
+                "state": "Mohammadpur",
+                "postcode": "V9 9BB"
+            },
+            "email": "armanrakib.mcc@gmail.com",
+            "dob": "1958-09-06 20:10:47",
+            "registered": "2010-01-08 16:34:44",
+            "phone": "016974 61627",
+            "cell": "0720-471-645",
+            "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever",
+            "id": {
+                "name": "NINO",
+                "value": "YL 93 66 94 Z"
+            },
+            "picture": {
+                "large": "https://firebasestorage.googleapis.com/v0/b/team-dovana.appspot.com/o/arman.jpg?alt=media&token=07ea2434-cd8d-4984-a3e0-64c38b7fad76",
+                "medium": "https://randomuser.me/api/portraits/med/men/46.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/46.jpg"
+            },
+            "nat": "GB"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "mr",
+                "first": "Golam",
+                "last": "kibria"
+            },
+            "location": {
+                "state": "Rampura",
+                "postcode": 18977
+            },
+            "email": "kibria.mcc@gmail.com",
+             
+            "dob": "1987-11-11 09:07:01",
+            "registered": "2008-09-14 13:07:57",
+            "phone": "032-89117471",
+            "cell": "0940-645-2556",
+            "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/11.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/11.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
+            },
+            "nat": "IR"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "mr",
+                "first": "masum",
+                "last": "talukdar"
+            },
+            "location": {
+                "street": "2080 rua castro alves ",
+                "city": "várzea grande",
+                "state": "Mirpur 1",
+                "postcode": 45895
+            },
+            "email": "masumtalukdar.mcc@gmail.com",
+            "dob": "1949-01-16 15:08:35",
+            "registered": "2005-06-22 04:18:45",
+            "phone": "(56) 5342-3539",
+            "cell": "(32) 1889-4341",
+            "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/27.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/27.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/27.jpg"
+            },
+            "nat": "BR"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "mr",
+                "first": "sabbir",
+                "last": "hossain"
+            },
+            "location": {
+                "street": "4916 boghall road",
+                "city": "athy",
+                "state": "Mirpur 1",
+                "postcode": 45075
+            },
+            "email": "sabbir.mcc@gmail.com",
+            "dob": "1965-01-12 16:40:53",
+            "registered": "2016-04-23 00:17:40",
+            "phone": "051-781-5677",
+            "cell": "081-963-9850",
+            "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever",
+            "id": {
+                "name": "PPS",
+                "value": "0353844T"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/41.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/41.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/41.jpg"
+            },
+            "nat": "IE"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "mr",
+                "first": "ripan",
+                "last": "hossain"
+            },
+            "location": {
+                "street": "8839 skovvænget",
+                "city": "gl. rye",
+                "state": "Savar",
+                "postcode": 91984
+            },
+            "email": "ripan.mcc@gmail.com",
+            "dob": "1969-01-21 20:48:52",
+            "registered": "2009-04-07 17:52:59",
+            "phone": "53816493",
+            "cell": "64718254",
+            "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever",
+            "id": {
+                "name": "CPR",
+                "value": "579544-6147"
+            },
+            "picture": {
+                "large": "https://firebasestorage.googleapis.com/v0/b/team-dovana.appspot.com/o/rip.jpg?alt=media&token=82377df7-1ae2-4b59-8914-34d813c12853",
+                "medium": "https://randomuser.me/api/portraits/med/women/41.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/41.jpg"
+            },
+            "nat": "DK"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "mr",
+                "first": "shafayet",
+                "last": "jamil"
+            },
+            "location": {
+                "street": "2066 queen elizabeth ii drive",
+                "city": "christchurch",
+                "state": "Mirpur 1",
+                "postcode": 95433
+            },
+            "email": "shafayer.mcc@gmail.com",
+            "dob": "1977-11-29 15:33:17",
+            "registered": "2014-07-13 10:41:51",
+            "phone": "(260)-194-6879",
+            "cell": "(595)-909-4476",
+            "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/22.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/22.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/22.jpg"
+            },
+            "nat": "NZ"
+        } 
+    ],
+    "info": {
+        "seed": "36e978c7c062bcc4",
+        "results": 25,
+        "page": 1,
+        "version": "1.1"
+    }
+}
