@@ -81,7 +81,7 @@
                 "value": null
             },
             "picture": {
-                "large": "https://firebasestorage.googleapis.com/v0/b/team-dovana.appspot.com/o/myAvatar.png?alt=media&token=245ddbb8-6faf-4689-a68c-b79a7420673e",
+                "large": "https://firebasestorage.googleapis.com/v0/b/team-dovana.appspot.com/o/gk.jpg?alt=media&token=d128e35c-084b-41ed-a786-00999ec373b3",
                 "medium": "https://randomuser.me/api/portraits/med/men/11.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
             },
@@ -111,7 +111,7 @@
                 "value": null
             },
             "picture": {
-                "large": "https://firebasestorage.googleapis.com/v0/b/team-dovana.appspot.com/o/myAvatar.png?alt=media&token=245ddbb8-6faf-4689-a68c-b79a7420673e",
+                "large": "https://firebasestorage.googleapis.com/v0/b/team-dovana.appspot.com/o/masum.jpg?alt=media&token=b465051c-4d2a-4b8f-9f1d-43e56ce084d7",
                 "medium": "https://randomuser.me/api/portraits/med/men/27.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/27.jpg"
             },
@@ -141,7 +141,7 @@
                 "value": "0353844T"
             },
             "picture": {
-                "large": "https://firebasestorage.googleapis.com/v0/b/team-dovana.appspot.com/o/myAvatar.png?alt=media&token=245ddbb8-6faf-4689-a68c-b79a7420673e",
+                "large": "https://firebasestorage.googleapis.com/v0/b/team-dovana.appspot.com/o/sabbir.jpg?alt=media&token=26fdfd4a-dbc9-4005-ac41-251469952286",
                 "medium": "https://randomuser.me/api/portraits/med/men/41.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/41.jpg"
             },
@@ -201,7 +201,7 @@
                 "value": null
             },
             "picture": {
-                "large": "https://firebasestorage.googleapis.com/v0/b/team-dovana.appspot.com/o/myAvatar.png?alt=media&token=245ddbb8-6faf-4689-a68c-b79a7420673e",
+                "large": "https://firebasestorage.googleapis.com/v0/b/team-dovana.appspot.com/o/sfj.jpg?alt=media&token=aa5257be-049d-4744-886f-10467f6d8ff2",
                 "medium": "https://randomuser.me/api/portraits/med/women/22.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/women/22.jpg"
             },
@@ -211,16 +211,16 @@
             "gender": "male",
             "name": {
                 "title": "mr",
-                "first": "shafayet",
-                "last": "jamil"
+                "first": "Tashfeen",
+                "last": "Siddique"
             },
             "location": {
                 "street": "2066 queen elizabeth ii drive",
                 "city": "christchurch",
-                "state": "Mirpur 1",
+                "state": "Paltan",
                 "postcode": 95433
             },
-            "email": "shafayer.mcc@gmail.com",
+            "email": "tashfeen.mcc@gmail.com",
             "dob": "1977-11-29 15:33:17",
             "registered": "2014-07-13 10:41:51",
             "phone": "(260)-194-6879",
@@ -231,7 +231,7 @@
                 "value": null
             },
             "picture": {
-                "large": "https://firebasestorage.googleapis.com/v0/b/team-dovana.appspot.com/o/myAvatar.png?alt=media&token=245ddbb8-6faf-4689-a68c-b79a7420673e",
+                "large": "https://firebasestorage.googleapis.com/v0/b/team-dovana.appspot.com/o/tashfeen.jpg?alt=media&token=1fba1e47-72f1-4263-90cb-6de2872215e1",
                 "medium": "https://randomuser.me/api/portraits/med/women/22.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/women/22.jpg"
             },
@@ -241,16 +241,16 @@
             "gender": "male",
             "name": {
                 "title": "mr",
-                "first": "shafayet",
-                "last": "jamil"
+                "first": "Monoar Hossain",
+                "last": "Mufaz"
             },
             "location": {
                 "street": "2066 queen elizabeth ii drive",
                 "city": "christchurch",
-                "state": "Mirpur 1",
+                "state": "Mohammadpur",
                 "postcode": 95433
             },
-            "email": "shafayer.mcc@gmail.com",
+            "email": "mufaz.mcc@gmail.com",
             "dob": "1977-11-29 15:33:17",
             "registered": "2014-07-13 10:41:51",
             "phone": "(260)-194-6879",
@@ -261,37 +261,7 @@
                 "value": null
             },
             "picture": {
-                "large": "https://firebasestorage.googleapis.com/v0/b/team-dovana.appspot.com/o/myAvatar.png?alt=media&token=245ddbb8-6faf-4689-a68c-b79a7420673e",
-                "medium": "https://randomuser.me/api/portraits/med/women/22.jpg",
-                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/22.jpg"
-            },
-            "nat": "NZ"
-        }, 
-        {
-            "gender": "male",
-            "name": {
-                "title": "mr",
-                "first": "shafayet",
-                "last": "jamil"
-            },
-            "location": {
-                "street": "2066 queen elizabeth ii drive",
-                "city": "christchurch",
-                "state": "Mirpur 1",
-                "postcode": 95433
-            },
-            "email": "shafayer.mcc@gmail.com",
-            "dob": "1977-11-29 15:33:17",
-            "registered": "2014-07-13 10:41:51",
-            "phone": "(260)-194-6879",
-            "cell": "(595)-909-4476",
-            "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever",
-            "id": {
-                "name": "",
-                "value": null
-            },
-            "picture": {
-                "large": "https://firebasestorage.googleapis.com/v0/b/team-dovana.appspot.com/o/myAvatar.png?alt=media&token=245ddbb8-6faf-4689-a68c-b79a7420673e",
+                "large": "https://firebasestorage.googleapis.com/v0/b/team-dovana.appspot.com/o/mufaz.jpg?alt=media&token=f0ea0910-5a06-4ad7-a379-ea51a776f054",
                 "medium": "https://randomuser.me/api/portraits/med/women/22.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/women/22.jpg"
             },
