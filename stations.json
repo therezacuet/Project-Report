@@ -1,0 +1,19 @@
+{
+    "station":
+    [
+     {
+     "name": "Scoop Music",
+     "streamURL": "http://janus.shoutca.st:8869",
+     "imageURL": "https://drive.google.com/uc?export=download&id=1y1N5s_wrcAVByJS9o6NBMHf5o9mTwaIQ",
+     "desc": "KVCU - Boulder, CO",
+     "longDesc": "Radio 1190 is the bomb."
+     },
+     {
+     "name": "Scoop Kids",
+     "streamURL": "http://procyon.shoutca.st:8107/stream",
+     "imageURL": "https://drive.google.com/uc?export=download&id=1VMRaNAp90fJ0EbUamtUG4VvbgYb1LtHG",
+     "desc": "KVCU - Boulder, CO",
+     "longDesc": "Radio 1190 is the bomb."
+     }
+    ]
+}
