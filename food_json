@@ -1,26 +1,26 @@
 [
   {
-    "food_name":"kjdfkrej",
-    "rating":"342",
-    "delivery_time":"234323",
+    "food_name":"Grilled salmon",
+    "rating":"4.9(200)",
+    "delivery_time":"15-20 min",
     "food_image_url":"asfsdfsd"
   },
   {
-    "food_name":"kjdfkrej",
-    "rating":"342",
-    "delivery_time":"234323",
+    "food_name":"Grilled salmon",
+    "rating":"4.9(200)",
+    "delivery_time":"15-20 min",
     "food_image_url":"asfsdfsd"
   },
   {
-    "food_name":"kjdfkrej",
-    "rating":"342",
-    "delivery_time":"234323",
+    "food_name":"Grilled salmon",
+    "rating":"4.9(200)",
+    "delivery_time":"15-20 min",
     "food_image_url":"asfsdfsd"
   },
   {
-    "food_name":"kjdfkrej",
-    "rating":"342",
-    "delivery_time":"234323",
+    "food_name":"Grilled salmon",
+    "rating":"4.9(200)",
+    "delivery_time":"15-20 min",
     "food_image_url":"asfsdfsd"
   }
 ]
