@@ -3,7 +3,7 @@
 	"results": [{
 		"category": "Entertainment: Books",
 		"question": "You gross pay is :",
-		"correct_answer": "Herman Melville",
+		"correct_answer": "All of the above",
 		"incorrect_answers": ["Before Taxes", "Before FICA contributions", "All of the above", "None of the above"]
 	}, {
 		"category": "Entertainment: Books",
