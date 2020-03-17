@@ -8,7 +8,7 @@
 	}, {
 		"category": "Entertainment: Books",
 		"question": "FICA contributions include :",
-		"correct_answer": "7Social Security and Medicare",
+		"correct_answer": "Social Security and Medicare",
 		"incorrect_answers": ["Social Security only", "Medicare Only", "Federal Income Tax","Social Security and Medicare"]
 	}, {
 		"category": "Entertainment: Books",
