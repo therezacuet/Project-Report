@@ -1,0 +1,29 @@
+{
+	"response_code": 0,
+	"results": [{
+		"category": "Entertainment: Books",
+		"question": "You gross pay is :",
+		"correct_answer": "Herman Melville",
+		"incorrect_answers": ["Before Taxes", "Before FICA contributions", "All of the above", "None of the above"]
+	}, {
+		"category": "Entertainment: Books",
+		"question": "FICA contributions include :",
+		"correct_answer": "7Social Security and Medicare",
+		"incorrect_answers": ["Social Security only", "Medicare Only", "Federal Income Tax","Social Security and Medicare"]
+	}, {
+		"category": "Entertainment: Books",
+		"question": "Federal and State taxes are based on :",
+		"correct_answer": "Gross Pay after allowed deductions",
+		"incorrect_answers": ["Gross Pay after allowed deductions", "Net Pay", "Neither - Taxes are for dummies", "Can be on either"]
+	}, {
+		"category": "Entertainment: Books",
+		"question": "Following deductions are tax free",
+		"correct_answer": "401k Retirement Plan and Insurance",
+		"incorrect_answers": ["401k Retirement Plan and Insurance", "401k Retirement Plan and Alimony Payments", "Insurance and Alimony Payments","401k Retirement Plan, Insurance and Alimony Payments"]
+	}, {
+		"category": "Entertainment: Books",
+		"question": "Your Net Pay is ",
+		"correct_answer": "After all deductions, contributions and taxes",
+		"incorrect_answers": ["After all deductions, contributions and taxes", "After deduction but before taxes", "What your employer pays you","All of the above"]
+	}]
+}
